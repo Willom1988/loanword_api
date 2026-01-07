@@ -6,4 +6,5 @@ pydantic-core==2.20.1
 python-multipart==0.0.9
 requests==2.32.3
 sqlalchemy==2.0.36
+
 psycopg[binary]==3.2.12
